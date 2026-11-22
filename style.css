@@ -1,0 +1,7 @@
+body { background: #f5f7f8; color: #17252b; font-family: Arial, sans-serif; }
+.page-heading { background: #28a745; color: white; text-align: center; padding: 17px; font-size: 28px; margin-bottom: 18px; }
+.person-card { background: #16a3b6; border: 0; border-radius: 0; color: #102d34; box-shadow: 0 2px 5px #0002; }
+.person-title { font-size: 19px; font-weight: bold; margin-bottom: 14px; }
+.person-card p { margin-bottom: 8px; overflow-wrap: anywhere; }
+.avatar { width: 115px; height: 115px; border-radius: 50%; object-fit: cover; }
+.extra-details { border-top: 1px solid #ffffff70; padding-top: 10px; margin-top: 12px; }
